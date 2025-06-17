@@ -1,5 +1,6 @@
 # Forecasting-project
 
+
 import pandas as pd 
 import openpyxl
 import matplotlib.pyplot as plt
@@ -20,5 +21,10 @@ plt.title("Sales Over Time")
 plt.xlabel("Date")
 plt.ylabel("Sales")
 plt.show()
+## 📊 Forecast Graph
+
+![Forecast Graph](graph.png)
+
+
 
 
