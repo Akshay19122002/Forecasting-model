@@ -22,8 +22,7 @@ plt.xlabel("Date")
 plt.ylabel("Sales")
 plt.show()
 ## 📊 Forecast Graph
-
-![Forecast Graph]("D:\jupyter\Fosroc_internship\graph.png")
+![graph](https://github.com/user-attachments/assets/81833a51-344b-4a0d-afc5-03b1077ec90c)
 
 
 
