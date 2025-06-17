@@ -9,6 +9,9 @@ This project forecasts sales using ARIMA and Linear Regression based on historic
 | 2023-01-08 00:00:00 | 493   | South  |
 ...
 
+## 📊 Forecast Graph
+![graph](https://github.com/user-attachments/assets/81833a51-344b-4a0d-afc5-03b1077ec90c)
+
 ## Installation
 pip install pandas openpyxl matplotlib statsmodels scikit-learn
 
@@ -36,8 +39,7 @@ plt.title("Sales Over Time")
 plt.xlabel("Date")
 plt.ylabel("Sales")
 plt.show()
-## 📊 Forecast Graph
-![graph](https://github.com/user-attachments/assets/81833a51-344b-4a0d-afc5-03b1077ec90c)
+
 
 
 
