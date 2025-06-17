@@ -10,6 +10,7 @@ from sklearn.linear_model import LinearRegression
 # Load dummy data
 df = pd.read_excel('dummy_sales_data.xlsx')
 print(df.head())
+D:\jupyter\Fosroc_internship\dummy_sales_data.xlsx
 
 # Clean and sort data
 df['Date'] = pd.to_datetime(df['Date'])
