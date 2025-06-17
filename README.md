@@ -23,7 +23,7 @@ plt.ylabel("Sales")
 plt.show()
 ## 📊 Forecast Graph
 
-![Forecast Graph](graph.png)
+![Forecast Graph]("D:\jupyter\Fosroc_internship\graph.png")
 
 
 
