@@ -10,7 +10,7 @@ from sklearn.linear_model import LinearRegression
 # Load dummy data
 df = pd.read_excel('dummy_sales_data.xlsx')
 print(df.head())
-[Download the Excel Data](D:\jupyter\Fosroc_internship\dummy_sales_data.xlsx)
+[Download the Excel Data](Fosroc_internship\dummy_sales_data.xlsx)
 
 
 # Clean and sort data
