@@ -19,8 +19,8 @@ pip install pandas openpyxl matplotlib statsmodels scikit-learn
 
 import pandas as pd 
 import matplotlib.pyplot as plt
-from statsmodels.tsa.arima.model import ARIMA
-from sklearn.linear_model import LinearRegression
+from statsmodels.tsa.arima.model
+from sklearn.linear_model
 
 # Load dummy data
 df = pd.read_excel('dummy_sales_data.xlsx')
