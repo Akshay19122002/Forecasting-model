@@ -18,7 +18,6 @@ pip install pandas openpyxl matplotlib statsmodels scikit-learn
 
 
 import pandas as pd 
-import openpyxl
 import matplotlib.pyplot as plt
 from statsmodels.tsa.arima.model import ARIMA
 from sklearn.linear_model import LinearRegression
